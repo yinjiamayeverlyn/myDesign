@@ -1,5 +1,4 @@
 # myDesign
-myDesign
 
 Multimedia assignment - Adobe Illustation and Adobe Photoshop <br/>
 Pahang Buddhist Association (PBA) library - Canva  <br/>
